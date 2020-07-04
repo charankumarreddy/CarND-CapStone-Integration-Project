@@ -140,7 +140,8 @@ The following is a graph with the x axis as the distance to the stop line and th
 [click here](https://youtu.be/ojhbzBOSHbQ)
 
 ## Test site Video
-![click here](https://youtu.be/Jn7Pj6VcnQg)
+[click here](https://youtu.be/Jn7Pj6VcnQg)
+
 Please use **one** of the two installation options, either native **or** docker installation.
 
 ### Native Installation
